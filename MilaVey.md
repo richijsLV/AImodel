@@ -499,3 +499,378 @@ Never change:
 - Brand identity
 
 This is the official canon for Mila Vey.
+
+
+
+---
+
+# PART 2 — MASTER IMAGE GENERATION PROMPTS
+
+> These prompts are designed to establish Mila's identity as consistently as possible. Generate these first and keep the best 5–10 as reference images for future image/video generation.
+>
+> **Important:** Always refer to her as **"the girl in the image"** instead of using her name. This improves consistency when using reference images.
+
+---
+
+# Global Character Description
+
+Use this in every prompt (or keep the same details naturally included):
+
+- 22-year-old woman
+- Living in Austin, Texas
+- Dark brown shoulder-length hair
+- Hazel eyes
+- Slim athletic body with natural feminine curves
+- Warm lightly tanned skin
+- Natural makeup
+- Soft smile
+- Thick eyebrows
+- Full lips
+- Small heart-shaped birthmark below the left collarbone
+- Cute "girl next door" aesthetic
+- Looks clearly over 21
+- Realistic iPhone photography
+- Natural lighting
+- Real skin texture
+- Slight imperfections
+- NOT a studio photoshoot
+- NOT a celebrity
+- NOT an Instagram model
+- NOT plastic AI skin
+
+---
+
+# Prompt 01 — Master Portrait
+
+Create an ultra-realistic iPhone portrait photograph of **the girl in the image** standing outside during golden hour.
+
+She has dark brown shoulder-length hair, hazel eyes, warm lightly tanned skin, natural makeup, soft lips, thick eyebrows, and a subtle confident smile.
+
+She is wearing a simple fitted white crop top with light blue jeans.
+
+Natural sunlight.
+
+Soft shadows.
+
+Realistic skin texture.
+
+Tiny skin imperfections.
+
+Slight flyaway hairs.
+
+Background softly blurred.
+
+Looks like a casual friend took the photo.
+
+Nothing looks professionally staged.
+
+---
+
+# Prompt 02 — Passport Style
+
+Create a passport-style front-facing portrait of **the girl in the image**.
+
+Neutral facial expression.
+
+Plain light gray background.
+
+Perfectly centered.
+
+Natural skin texture.
+
+Very high facial detail.
+
+Hair tucked naturally behind one ear.
+
+No beauty filters.
+
+No dramatic lighting.
+
+Maximum identity consistency.
+
+---
+
+# Prompt 03 — Left Side Profile
+
+Create a realistic side profile of **the girl in the image** looking left.
+
+Natural daylight.
+
+Hair resting naturally.
+
+Relaxed expression.
+
+White background.
+
+Perfect visibility of facial structure.
+
+Realistic iPhone photo.
+
+---
+
+# Prompt 04 — Right Side Profile
+
+Create a realistic side profile of **the girl in the image** looking right.
+
+Natural lighting.
+
+Same hairstyle.
+
+Same facial proportions.
+
+Consistent identity.
+
+Photorealistic.
+
+---
+
+# Prompt 05 — Looking Up
+
+Create a realistic close-up photograph of **the girl in the image** looking slightly upward toward the camera.
+
+Soft smile.
+
+Golden-hour sunlight.
+
+Natural freckles and skin texture visible.
+
+Looks completely authentic.
+
+---
+
+# Prompt 06 — Looking Down
+
+Create a candid smartphone photo of **the girl in the image** looking downward while smiling.
+
+Natural hair movement.
+
+Warm indoor apartment lighting.
+
+Relaxed atmosphere.
+
+---
+
+# Prompt 07 — Smiling
+
+Create a realistic portrait of **the girl in the image** laughing naturally after someone said something funny.
+
+Teeth slightly visible.
+
+Eyes slightly squinted.
+
+Real candid expression.
+
+Nothing posed.
+
+---
+
+# Prompt 08 — Serious Face
+
+Create a realistic iPhone portrait of **the girl in the image** with a calm confident expression.
+
+Minimal makeup.
+
+Neutral pose.
+
+Natural lighting.
+
+Very realistic.
+
+---
+
+# Prompt 09 — Mirror Selfie
+
+Create a realistic mirror selfie of **the girl in the image** inside a cozy apartment.
+
+Holding an iPhone naturally.
+
+Relaxed posture.
+
+Warm ambient lighting.
+
+Looks like a real social media story.
+
+---
+
+# Prompt 10 — Coffee Shop
+
+Create a realistic candid photograph of **the girl in the image** sitting in a cozy coffee shop drinking an iced vanilla latte.
+
+Oversized hoodie.
+
+Laptop open.
+
+Morning sunlight.
+
+Natural smile.
+
+---
+
+# Prompt 11 — Walking Outside
+
+Create a realistic iPhone photograph of **the girl in the image** walking through a quiet Austin neighborhood.
+
+Relaxed posture.
+
+Hands in pockets.
+
+Natural smile.
+
+Golden hour.
+
+---
+
+# Prompt 12 — Gym Mirror
+
+Create a realistic gym mirror selfie of **the girl in the image** after finishing a workout.
+
+Athletic outfit.
+
+Hair slightly messy.
+
+Very light sweat.
+
+Natural phone-camera quality.
+
+---
+
+# Prompt 13 — Car Selfie
+
+Create a realistic smartphone selfie of **the girl in the image** sitting in the driver's seat of her car after buying coffee.
+
+Window lighting.
+
+Relaxed smile.
+
+Casual clothing.
+
+Looks completely authentic.
+
+---
+
+# Prompt 14 — Bedroom
+
+Create a realistic candid bedroom photograph of **the girl in the image** sitting on her bed reading a book.
+
+Warm bedside lamp.
+
+Cozy atmosphere.
+
+Natural pose.
+
+Looks like everyday life.
+
+---
+
+# Prompt 15 — Balcony
+
+Create a realistic photo of **the girl in the image** standing on an apartment balcony during sunset.
+
+Light breeze.
+
+Relaxed smile.
+
+Warm sunlight.
+
+Photorealistic smartphone image.
+
+---
+
+# Prompt 16 — Beach
+
+Create a realistic golden-hour beach photograph of **the girl in the image** wearing stylish beachwear with an oversized open shirt.
+
+Natural pose.
+
+Hair blowing in the wind.
+
+Looks like vacation photos taken by a friend.
+
+---
+
+# Prompt 17 — Bookstore
+
+Create a realistic candid photograph of **the girl in the image** browsing books inside a cozy bookstore.
+
+Holding a coffee.
+
+Soft smile.
+
+Warm lighting.
+
+---
+
+# Prompt 18 — Grocery Store
+
+Create a realistic iPhone photograph of **the girl in the image** pushing a shopping cart through a grocery store.
+
+Laughing naturally.
+
+Everyday lifestyle.
+
+Very relatable.
+
+---
+
+# Prompt 19 — Night Drive
+
+Create a realistic smartphone photograph of **the girl in the image** sitting inside her parked car at night.
+
+City lights outside.
+
+Dashboard softly illuminated.
+
+Natural expression.
+
+Very cinematic while remaining realistic.
+
+---
+
+# Prompt 20 — Identity Lock
+
+Create the most photorealistic identity reference possible for **the girl in the image**.
+
+Front-facing.
+
+Natural daylight.
+
+No dramatic shadows.
+
+Dark brown shoulder-length hair.
+
+Hazel eyes.
+
+Warm lightly tanned skin.
+
+Natural makeup.
+
+Small heart-shaped birthmark below the left collarbone.
+
+Slim athletic build.
+
+Realistic skin pores.
+
+Fine facial hairs visible.
+
+Tiny asymmetries preserved.
+
+Slight smile.
+
+Looks like an ordinary iPhone photograph of a real 22-year-old woman living in Austin, Texas.
+
+No glamour photography.
+
+No beauty filters.
+
+No celebrity resemblance.
+
+Maximum facial consistency for future reference image generation.
+
+---
+
+# Universal Negative Prompt
+
+low quality, blurry, overprocessed skin, AI artifacts, extra fingers, extra limbs, duplicate body parts, malformed anatomy, unrealistic proportions, doll face, plastic skin, excessive makeup, beauty filter, studio glamour lighting, CGI look, cartoon, anime, illustration, watermark, text, logo, low resolution, oversharpening, distorted eyes, crossed eyes, inconsistent face, childlike appearance, underage appearance, celebrity resemblance
+
+---
+```
